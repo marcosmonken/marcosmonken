@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marcosmonken
 - 👀 I’m intereste em aprender programaçao
-- 🌱  Atualmente estou estudando HTML do zero.
+- 🌱  Atualmente estou estudando Angular
 - 💞️  Pretendo aprender o maximo de frontend 
 - 📫  insta> @marcoscostafts
 
